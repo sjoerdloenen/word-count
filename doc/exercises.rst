@@ -16,7 +16,7 @@ Before you start
 - We then review the pull requests.
 - After the pull requests are merged we verify that documentation updates itself.
 
-
+- Some dummy text for now. Execute exercise 1. Added by Sjoerd Loenen
 Basic
 -----
 
